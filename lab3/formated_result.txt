@@ -1,0 +1,6 @@
+---Student personal information---
+Name: 
+ID: 
+Address: 
+Age: 
+Religion: 
